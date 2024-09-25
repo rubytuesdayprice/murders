@@ -1,4 +1,0 @@
-    ```{r, echo=F}
-n <- nrow(mtcars)
-```
-Here `r n` cars are comapred
